@@ -1,6 +1,10 @@
 Repo links:
-https://liz-guenthner.github.io/GiphyAPI/
-https://github.com/liz-guenthner/GiphyAPI
+https://liz-guenthner.github.io/TrainTimes/
+
+https://github.com/liz-guenthner/TrainTimes
+
+Portfolio links:
+
 
 Application:
 1. Train Times App is tied to Firebase Database so all data persists even when user refreshes page
